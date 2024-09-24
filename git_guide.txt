@@ -80,3 +80,7 @@
 
 ## Notes:
 - If you run `git init` on a repository that already contains files on GitHub, you will need to pull the changes first (using `git pull origin main --rebase`) to avoid conflicts when pushing.
+
+** IF you have no folder already on your local and want all the files from repo :
+    Git clone <url> (folder name will be name of repo -> http://ww../node-1 => folder name = node-1
+   **Else do Git clone <url> folder-name
